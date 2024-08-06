@@ -1,0 +1,13 @@
+Package: CPVS
+Type: Package
+Title: Computationally efficient segmentation for non-stationary time series with oscillatory patterns (Bianco and Cappello, 2024)
+Version: 1.0
+Date: 2024-08-06
+Author: Nicolas Bianco
+Maintainer: Nicolas Bianco <nicolas.bianco@upf.edu>
+Description: Change point detection for non-stationary time series with oscillatory patterns using fast Bayesian variable selection. The algorithm combines the Optimistic Search algorithm (Kovacs et al., 2020: Optimistic search: Change point estimation for large-scale data via adaptive logarithmic queries) and the Bayesian Sum of Single Effect regression (Wang et al., 2020: A simple new approach to variable selection in regression, with application to genetic fine mapping). 
+Imports: 
+    Rcpp
+LinkingTo: Rcpp, RcppArmadillo
+Depends: TSA
+RoxygenNote: 7.2.1
