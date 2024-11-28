@@ -7,4 +7,4 @@
 Bianco and Cappello (2024). "Computationally efficient segmentation for non-stationary time series with oscillatory patterns". *Coming soon!*
 
 ### Issues/Comments/Requests 
-Feel free to mail me *nicolas.bianco@upf.edu*
+Feel free to mail me *nicolas.bianco@kit.edu*
